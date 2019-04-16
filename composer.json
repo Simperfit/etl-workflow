@@ -1,5 +1,5 @@
 {
-    "name" : "bookeen/etl-workflow",
+    "name" : "simperfit/etl-workflow",
     "description" : "Extract-Transform-Load workflow library",
     "type" : "library",
     "authors" : [{
